@@ -1,0 +1,30 @@
+body,
+button,
+input,
+li,
+ol,
+ul,
+div,
+section,
+article,
+td,
+th,
+span,
+textarea,
+form,
+footer,
+header,
+nav,
+main,
+address,
+aside,
+pre,
+canvas {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+li {
+    list-style: none;
+}
+

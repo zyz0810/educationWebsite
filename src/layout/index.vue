@@ -13,6 +13,7 @@ import { AppMain, Settings, Sidebar, TagsView,  TopView, PageFooter } from './co
 import ResizeMixin from './mixin/ResizeHandler'
 import { mapState } from 'vuex'
 
+
 export default {
   name: 'Layout',
   components: {

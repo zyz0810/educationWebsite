@@ -25,7 +25,8 @@
       <div class="flex_bd flex">
         <div class="flex_hd about_flex_img"><img src="./../../assets/image/address_img.png"/> </div>
         <div class="flex_bd">
-          <p class="about_p_one">太原市小店区晋阳街170<br/>纳达大厦西区501</p>
+<!--          <p class="about_p_one">太原市小店区晋阳街170<br/>纳达大厦西区501</p>-->
+          <p class="about_p_one">太原市杏花岭区西羊市街73号五层C区（入驻太原市企慧商务秘书有限公司-0028号）</p>
           <p class="about_p_two">通讯地址</p>
         </div>
       </div>

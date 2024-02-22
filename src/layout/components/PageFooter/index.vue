@@ -31,9 +31,23 @@
           </div>
         </div>
       </div>
+<!--    第一版开始-->
+<!--    <div class="page_footer_bottom">-->
+<!--      <p class="page_footer_bottom_box"><a href="https://beian.miit.gov.cn" target="_blank">Copyright ©山西鑫桂泽科技有限公司   晋ICP备2023018025号-1</a></p>-->
+<!--    </div>-->
+    <!--    第一版结束-->
+<!--    第二版开始-->
     <div class="page_footer_bottom">
-      <p class="page_footer_bottom_box"><a href="https://beian.miit.gov.cn" target="_blank">Copyright ©山西鑫桂泽科技有限公司   晋ICP备2023018025号-1</a></p>
+      <div class="page_footer_bottom_box">
+        <p><a href="https://beian.miit.gov.cn" target="_blank">Copyright ©山西鑫桂泽科技有限公司   晋ICP备2023018025号-1</a></p>
+        <div class="footer_flex">
+          <a class="footer_flex" href="https://beian.mps.gov.cn/#/query/webSearch?code=14010702074474" rel="noreferrer" target="_blank">
+           <img src="./../../../assets/image/beian.png" class="beian_img"/>晋公网安备14010702074474
+          </a></div>
+        <!--      <a href=\"https://beian.mps.gov.cn/#/query/webSearch?code=14010702074474\" rel=\"noreferrer\" target=\"_blank\">晋公网安备14010702074474</a>-->
+      </div>
     </div>
+    <!--    第二版结束-->
   </div>
 </template>
 
@@ -63,6 +77,11 @@ export default {
   }
   .f18{
     font-size: 18px;
+  }
+  .footer_flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 .page_footer{
   background: #0B1024;
@@ -129,6 +148,10 @@ export default {
         -webkit-transform: scaleY(0.5);
         transform: scaleY(0.5);
         z-index: 2;
+      }
+      .beian_img{
+        width: 18px;
+        margin-right: 3px;
       }
     }
 

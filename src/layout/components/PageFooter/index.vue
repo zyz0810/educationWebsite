@@ -27,7 +27,7 @@
           <div class="flex f16">
             <div class="flex_hd footer_icon"><img src="./../../../assets/image/address_icon.png"/> </div>
 <!--            <div class="flex_bd">太原市小店区晋阳街170<br/>纳达大厦西区501</div>-->
-            <div class="flex_bd">太原市杏花岭区西羊市街73号五层C区（入驻太原市企慧商务秘书有限公司-0028号）</div>
+            <div class="flex_bd">太原市小店区晋阳街176号纳达大厦西A-501号</div>
           </div>
         </div>
       </div>
@@ -40,10 +40,10 @@
     <div class="page_footer_bottom">
       <div class="page_footer_bottom_box">
         <p><a href="https://beian.miit.gov.cn" target="_blank">Copyright ©山西鑫桂泽科技有限公司   晋ICP备2023018025号-1</a></p>
-        <div class="footer_flex">
-          <a class="footer_flex" href="https://beian.mps.gov.cn/#/query/webSearch?code=14010702074474" rel="noreferrer" target="_blank">
-           <img src="./../../../assets/image/beian.png" class="beian_img"/>晋公网安备14010702074474
-          </a></div>
+<!--        <div class="footer_flex">-->
+<!--          <a class="footer_flex" href="https://beian.mps.gov.cn/#/query/webSearch?code=14010702074474" rel="noreferrer" target="_blank">-->
+<!--           <img src="./../../../assets/image/beian.png" class="beian_img"/>晋公网安备14010702074474-->
+<!--          </a></div>-->
         <!--      <a href=\"https://beian.mps.gov.cn/#/query/webSearch?code=14010702074474\" rel=\"noreferrer\" target=\"_blank\">晋公网安备14010702074474</a>-->
       </div>
     </div>
@@ -133,7 +133,7 @@ export default {
       margin: 0 auto;
       position: relative;
       text-align: center;
-      padding: 15px 0 30px 0;
+      padding: 15px 0 15px 0;
       &:before{
         content: " ";
         position: absolute;
